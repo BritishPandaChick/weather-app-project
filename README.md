@@ -1,15 +1,16 @@
 # Skillcrush 104 Weather App Project
-All code for weather app project. This is for Skillcrush 104 final project. Built with Ruby.
-
-## Table of Contents
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Skillcrush 104 final project. Weather App project.
 
 ### Instructions
-Clone or download the zip file. Run in your command prompt. Input your location and click submit to see what the weather is like around where you live.
+Clone or download the zip file. Run in your command prompt. Type ```ruby weather_three.rb``` and click submit to see what the weather is like around where you live.
 
 ### Contributing
-Please contact me if you would like to contribute.
+This website is based on a desing created by Skillcrush. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* Skillcrush
+* Yahoo Weatherman Gem 
+
 
 
 
